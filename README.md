@@ -45,4 +45,4 @@ Buka `web_kontrolv2.html` di browser HP atau laptop.
 - [MQTT by 256dpi](https://github.com/256dpi/arduino-mqtt)
 
 Web Control:
-https://github.com/Muhayara/control-hub
+- [Kontroler](https://github.com/Muhayara/control-hub)
