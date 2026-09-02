@@ -26,13 +26,13 @@ Ubah bagian konfigurasi di baris paling atas:
 ```cpp
 const char* WIFI_SSID     = "NAMA_WIFI_KAMU";
 const char* WIFI_PASSWORD = "PASSWORD_WIFI_KAMU";
-const char* topic         = "USERNAME/rc/rc-car-controller/car";
+const char* topic         = "muhayara/example";
 ```
 
 ### 2. Edit `web_kontrolv2.html`
 Ubah topic agar **sama persis** dengan yang ada di `.ino`:
 ```js
-const MQTT_TOPIC = 'USERNAME/rc/rc-car-controller/car'
+const MQTT_TOPIC = 'muhayara/example'
 ```
 
 ### 3. Upload ke ESP32
